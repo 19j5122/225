@@ -1,0 +1,25 @@
+# coding: utf-8
+# Your code here!
+# coding: utf-8
+# Your code here!
+print("Hello")
+print("Hello,World!")
+print("Hello,World!\nHello,World!") 
+print("Hello,World!\nHello,\nWorld!")
+print("H\nello,World!\nHello,\nWorld!")
+print("H\ne\nl\nl\no")
+print("Hello, World !")
+print("Hello, World !")
+#print("1")
+print("2")
+print("3")
+print("Hello, \t World !")
+print("1\t2\t3\n4\t5\t6\n7\t8\t9")
+print("Hello, \n World !")
+print("1\t2\t3\n4\t5\n6")
+print("\"Hello")
+print("\"Hello\"")
+print("\\Hello")
+print("\\Hello\\")
+print("\\""\"Hello\\\"")
+print("\"\\\\\\\\\"")
